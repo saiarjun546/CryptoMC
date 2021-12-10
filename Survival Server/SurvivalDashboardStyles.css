@@ -1,5 +1,4 @@
 .dashboardbackbtn{
-    background-color: darkcyan;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -11,7 +10,6 @@
     cursor: pointer;
 }
 .survivalstatusbtn{
-    background-color: darkcyan;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -22,3 +20,5 @@
     margin: 4px 2px;
     cursor: pointer;
 }
+.dashboardbackbtn{background-color:#008CBA;}
+.survivalstatusbrn{background-color:#008CBA;}
