@@ -46,6 +46,6 @@
     margin: 4px 2px;
     cursor: pointer;
 }
-li{
+.buttonli{
     display: inline-block;
 }
