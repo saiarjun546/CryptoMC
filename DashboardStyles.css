@@ -51,4 +51,6 @@
 }
 body{
     background-image:/Image Files/oof.png;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
