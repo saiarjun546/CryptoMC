@@ -49,8 +49,8 @@
 .buttonli{
     display: inline-block;
 }
-html{
-    background-image:https://github.com/saiarjun546/CryptoMC/blob/main/Image%20Files/oof.png;
+body{
+    background-image:url('https://github.com/saiarjun546/CryptoMC/blob/main/Image%20Files/oof.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
